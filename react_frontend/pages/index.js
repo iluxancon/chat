@@ -1,7 +1,6 @@
 import ChatMessages from '../components/ChatMessages'
 import ChatForm from '../components/ChatForm'
 
-
 export default class extends React.Component {
     render() {
         return (
